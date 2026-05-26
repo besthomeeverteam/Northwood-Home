@@ -1,0 +1,10 @@
+{
+  "name": "northwood-guest-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modern 2BR+Den Northwood Home guest guide website.",
+  "dependencies": {
+    "lucide-react": "^0.542.0",
+    "motion": "^12.23.12"
+  }
+}
